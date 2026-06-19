@@ -1,6 +1,6 @@
-# Midjourney Prompt Library
+# Image-Prompts
 
-Personal prompt archive for tracking hand-authored image prompt sets.
+A collection of my content prompts to be handed out to those who ask.
 
 ## Files
 
