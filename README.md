@@ -11,3 +11,10 @@ A collection of my content prompts to be handed out to those who ask.
 - One prompt per line.
 - Prompts are descriptive and do not require external context.
 - Intended for version tracking and future prompt iteration.
+
+## Repository Rules
+
+- Never delete or archive image files.
+- Always append new files when adding new prompt sets or image-related assets.
+- Never allow duplicate prompts in any prompt file.
+- Check for exact duplicate prompt lines before committing prompt changes.
