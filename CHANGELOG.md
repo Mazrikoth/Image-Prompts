@@ -4,6 +4,11 @@
 
 ### Added
 
+- Standardized prompt archive rules: new batches default to 500 prompts and aspect-ratio tags are omitted because Nic sets aspect ratio manually.
+- Expanded `midjourney-prompts-dbz-fate-heroines.txt` from 100 to 500 prompts.
+- Expanded `midjourney-prompts-evermore.txt` from 441 to 500 prompts.
+- Removed embedded `--ar 4:5` tags from existing prompt files.
+- Verified exact duplicate prompt lines after normalization: 4 prompt files, 2,000 total nonblank prompts, 0 duplicate groups.
 - Added `demon_alien_hybrid_heroes_villains_prompts.txt` with 500 one-line Midjourney prompts for demon-alien hybrid heroes and villains.
 - Verified exact duplicate prompt lines: 0 duplicate groups in the new file and 0 duplicate groups across all prompt `.txt` files.
 - Added `AGENTS.md` with repository operating rules: never delete or archive image files, always append new files, and prevent duplicate prompts.

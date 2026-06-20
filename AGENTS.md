@@ -10,6 +10,8 @@ These rules are mandatory for all work in this repository.
 - Never allow duplicate prompts in any prompt file.
 - Before adding or committing prompt text, check the target file and any other prompt files for exact duplicate prompt lines.
 - Keep prompt files one prompt per line unless Nic explicitly requests another format.
+- New prompt batches should contain 500 prompts by default unless Nic explicitly requests another count.
+- Do not include aspect-ratio parameters such as `--ar`; Nic sets aspect ratio manually.
 
 ## Change Records
 
