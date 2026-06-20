@@ -4,6 +4,8 @@
 
 ### Added
 
+- Curated all 4 prompt files for stronger Midjourney quality: shorter phrasing, more visual composition language, varied lighting/camera details, and fewer repeated boilerplate clauses.
+- Re-verified the prompt archive after curation: 4 prompt files, 500 prompts each, 2,000 total prompts, 0 aspect-ratio tags, and 0 exact duplicate prompt groups.
 - Standardized prompt archive rules: new batches default to 500 prompts and aspect-ratio tags are omitted because Nic sets aspect ratio manually.
 - Expanded `midjourney-prompts-dbz-fate-heroines.txt` from 100 to 500 prompts.
 - Expanded `midjourney-prompts-evermore.txt` from 441 to 500 prompts.
