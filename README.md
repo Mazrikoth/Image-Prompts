@@ -5,6 +5,7 @@ A collection of my content prompts to be handed out to those who ask.
 ## Files
 
 - `midjourney_hollow_cosmic_prompts.txt` - 500 one-line Midjourney prompts, each using `--ar 4:5`.
+- `demon_alien_hybrid_heroes_villains_prompts.txt` - 500 one-line Midjourney prompts for demon-alien hybrid heroes and villains, each using `--ar 4:5`.
 
 ## Notes
 
