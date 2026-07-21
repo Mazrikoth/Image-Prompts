@@ -4,10 +4,9 @@ A collection of my content prompts to be handed out to those who ask.
 
 ## Files
 
-- `midjourney_hollow_cosmic_prompts.txt` - 500 one-line Midjourney prompts.
-- `demon_alien_hybrid_heroes_villains_prompts.txt` - 500 one-line Midjourney prompts for demon-alien hybrid heroes and villains.
-- `midjourney-prompts-dbz-fate-heroines.txt` - 500 one-line Midjourney prompts blending high-powered anime battle heroines and villains with ornate fantasy magic.
-- `midjourney-prompts-evermore.txt` - 500 one-line Midjourney prompts for Evermore-inspired fantasy scenes.
+- `Infinity_Forge_Prompts_Master_2026-07-21.xlsx` - current dated image prompt master workbook.
+
+Historical prompt files are preserved on the `archive/image-prompts-2026-07-21` branch.
 
 ## Notes
 
