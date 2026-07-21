@@ -4,7 +4,8 @@
 
 ### Added
 
-- Added `Infinity_Forge_150_Prompts_Master.xlsx` as a new prompt workbook asset for the repository.
+- Added `Infinity_Forge_Prompts_Master.xlsx` as a rebuilt 500-prompt workbook asset for the repository.
+- Replaced the earlier duplicated prompt draft with 500 unique prompts across demon, cosmic, martial, mecha, and fantasy themes.
 
 ## 2026-06-19
 
