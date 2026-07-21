@@ -4,6 +4,7 @@
 
 ### Added
 
+- Documented the direct-to-main workflow for private solo-development work; pull requests and release workflows are opt-in.
 - Added `Infinity_Forge_Prompts_Master.xlsx` as a rebuilt 500-prompt workbook asset for the repository.
 - Replaced the earlier duplicated prompt draft with 500 unique prompts across demon, cosmic, martial, mecha, and fantasy themes.
 - Reworked the workbook again to use more varied openings, sentence shapes, and unique visual anchors so the sorted sheet does not collapse into near-identical lines.
