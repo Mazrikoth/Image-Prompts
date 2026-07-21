@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-07-21
+
+### Added
+
+- Added `Infinity_Forge_150_Prompts_Master.xlsx` as a new prompt workbook asset for the repository.
+
 ## 2026-06-19
 
 ### Added
