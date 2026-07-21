@@ -7,6 +7,7 @@
 - Added `Infinity_Forge_Prompts_Master.xlsx` as a rebuilt 500-prompt workbook asset for the repository.
 - Replaced the earlier duplicated prompt draft with 500 unique prompts across demon, cosmic, martial, mecha, and fantasy themes.
 - Reworked the workbook again to use more varied openings, sentence shapes, and unique visual anchors so the sorted sheet does not collapse into near-identical lines.
+- Rebuilt all 500 workbook prompts around explicit anatomy, clothing, materials, equipment, setting, lighting, camera, and body-language direction; removed the interchangeable color/prop template pattern that caused repeated poses.
 
 ## 2026-06-19
 
