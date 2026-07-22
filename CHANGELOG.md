@@ -4,6 +4,7 @@
 
 ### Added
 
+- Added `Infinity_Forge_Image_Prompts_26-500.txt` as the newest text image-prompt set; verified 475 numbered prompt entries with no exact duplicate prompt lines.
 - Documented the direct-to-main workflow for private solo-development work; pull requests and release workflows are opt-in.
 - Added `Infinity_Forge_Prompts_Master.xlsx` as a rebuilt 500-prompt workbook asset for the repository.
 - Replaced the earlier duplicated prompt draft with 500 unique prompts across demon, cosmic, martial, mecha, and fantasy themes.
